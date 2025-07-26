@@ -1,22 +1,23 @@
-# Soundify 🎧
+# Soundify 🎵 – React Music Player App
 
-A React music player that fetches live Punjabi & Hindi songs using Deezer API.
+A responsive and feature-rich music player built with React and Deezer API.
 
-# Features-
-- 🎧 Search and play music by artist (e.g., "Sidhu Moose Wala", "Lata Mangeshkar")
-- ⏯ Play / Pause / Next / Previous controls
-- 🎚 Seek bar with time tracking
-- 🔊 Volume control
-- 🌗 Dark mode toggle
-- 📱 Fully responsive for mobile and desktop
-- ⚡ Powered by Deezer API
+## 🔧 Features
+- Play/Pause, Volume, Progress Control
+- Artist-based search (Sidhu Moose Wala, Karan Aujla, etc.)
+- Dark Mode toggle
+- Fully Responsive for mobile/desktop
+- Real-time data with Deezer API
 
-# Technologies-
+## 🚀 Tech Stack
+- React.js
+- Tailwind CSS
+- Deezer API
+- JavaScript (ES6+)
 
-- Frontend: React, Tailwind CSS
-- API:Deezer (via RapidAPI)
-- Deployment: Vercel
+## 📍 Live Demo
+--https://soundify-music.vercel.app/
 
-## 🔗 Live Demo
+## 💡 Inspiration
+Built to practice real-world React skills, API integration, and music app UX.
 
-👉 [Soundify is live here!](https://soundify-music.vercel.app)
